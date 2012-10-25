@@ -21,6 +21,7 @@ class home extends CI_Controller {
 	{
 		$this->load->view('welcome_message.php');
 	}
+	
 }
 
 /* End of file welcome.php */
