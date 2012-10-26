@@ -19,6 +19,7 @@ class home extends CI_Controller {
 	 */
 	public function index()
 	{
+		echo $id;
 		$this->load->view('welcome_message.php');
 	}
 	
