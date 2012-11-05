@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Liaolz</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/diy_css.css" rel="stylesheet">
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+	<link href="static/css/diy_css.css" rel="stylesheet">
   </head>
   <body>
      <div class="navbar navbar-inverse navbar-fixed-top">
@@ -55,7 +55,7 @@
 			<hr />
 			<div class='diary_row'>
 				<div class='row_left span1'>
-					<a href="/profile/designsor" title="小爝"><img src="./img/face.png" alt="小爝"></a>
+					<a href="/profile/designsor" title="小爝"><img src="static/img/face.png" alt="小爝"></a>
 				</div>
 				<div class='row_right span11'>
 					<h5><a href="/profile/mydo/diary/5058fbf09aa184306c000001">兔耳的人气越来越少了</a></h5>
@@ -67,7 +67,7 @@
 			
 			<div class='diary_row'>
 				<div class='row_left span1'>
-					<a href="/profile/designsor" title="小爝"><img src="./img/face.png" alt="小爝"></a>
+					<a href="/profile/designsor" title="小爝"><img src="static/img/face.png" alt="小爝"></a>
 				</div>
 				<div class='row_right span11'>
 					<h5><a href="/profile/mydo/diary/5058fbf09aa184306c000001">兔耳的人气越来越少了</a></h5>
@@ -79,7 +79,7 @@
 
 			<div class='diary_row'>
 				<div class='row_left span1'>
-					<a href="/profile/designsor" title="小爝"><img src="./img/face.png" alt="小爝"></a>
+					<a href="/profile/designsor" title="小爝"><img src="static/img/face.png" alt="小爝"></a>
 				</div>
 				<div class='row_right span11'>
 					<h5><a href="/profile/mydo/diary/5058fbf09aa184306c000001">兔耳的人气越来越少了</a></h5>
@@ -135,5 +135,5 @@
 <!--container e-->
   </body>
       <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
 </html>
